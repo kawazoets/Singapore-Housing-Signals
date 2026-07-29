@@ -1,2 +1,3 @@
-# Singapore-Housing-Signals
-Observing Singapore's housing market through policy signals, market momentum, supply, and monetary policy.
+# Singapore Housing Signals
+
+An observation project for understanding Singapore's housing market through policy signals rather than price prediction.
