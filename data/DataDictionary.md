@@ -114,3 +114,21 @@ Record major government policy events affecting the housing market.
 | Description | Short description |
 | Source | Data source |
 | Updated | Last updated date |
+
+---
+
+# BTO_Supply.csv
+
+## Purpose
+
+Track the supply of new HDB BTO flats as a housing supply signal.
+
+### Columns
+
+| Column | Description |
+|--------|-------------|
+| Quarter | Reporting quarter (e.g. 2026-Q2) |
+| BTO_Supply | Number of BTO flats launched |
+| YoY | Year-on-year change (%) |
+| Source | Data source |
+| Updated | Last updated date |
