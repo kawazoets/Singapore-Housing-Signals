@@ -111,6 +111,12 @@ They are used to observe whether removing an institutional constraint actually r
 
 ## Data
 
+### Dashboard
+
+The current integrated dashboard and analysis workbook is available here:
+
+[Singapore Housing Signals — Version 1.1](data/Singapore_Housing_Signals_V1.1.xlsx)
+
 The project currently contains the following datasets:
 
 | Dataset | Description |
