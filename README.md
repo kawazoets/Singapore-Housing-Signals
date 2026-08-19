@@ -55,6 +55,14 @@ Owner consent → Reserve price → Developer economics → Future supply → Co
 
 ## Current Findings
 
+### Observations
+
+- [Observation 001 — Why I Started Singapore Housing Signals](observations/Observation-001.md)
+- [Observation 002 — Singapore Housing Policy Appears to Respond to Momentum, Not Just Price Levels](observations/Observation-002.md)
+- [Observation 003 — Transaction Volume Is a Confirmation Signal, Not Necessarily a Policy Trigger](observations/Observation-003.md)
+- [Observation 004 — Supply Is a Policy Lever: BTO, GLS and Private Land Recycling](observations/Observation-004.md)
+
+
 ### Finding 01 — Policy Reaction Function
 
 Singapore housing policy appears to respond not simply to absolute price levels, but to:
